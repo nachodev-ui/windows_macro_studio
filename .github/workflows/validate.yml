@@ -29,3 +29,5 @@ jobs:
 
       - name: Compile Python sources
         run: python -m py_compile window_macro_recorder_v4.py window_macro_studio_v2.py
+
+# Temporary validation workflow; removed before merge.
