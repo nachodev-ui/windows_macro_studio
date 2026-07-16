@@ -1,1 +1,24 @@
-# test
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Presets y datos locales
+macros/
+*.json.tmp
+
+# IDE y sistema operativo
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Paquetes y archivos temporales
+*.zip
+*.rar
+*.log
